@@ -8,7 +8,7 @@
 ### I'm currently working as a Full Stack Developer.
 
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guihlr&show_icons=true&theme=tokyonight&count_private=true)
+[![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guihlr&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/guihlr/guihlr#readme)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guihlr&layout=compact&theme=tokyonight&)](https://github.com/guihlr/guihlr#readme)
 
 
