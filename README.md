@@ -9,7 +9,7 @@
 
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guihlr&show_icons=true&theme=tokyonight&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guihlr&layout=compact&theme=tokyonight&)](https://github.com/guihlr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guihlr&layout=compact&theme=tokyonight&)](https://github.com/guihlr/guihlr#readme)
 
 
 ## Technologies:
