@@ -1,4 +1,4 @@
-## Hi there! I'm Guilherem Henrique 🖐️
+## Hi there! I'm Guilherme Henrique 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/guilherme-henrique-lima-ramos-b54b4015b)
